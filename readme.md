@@ -1,11 +1,11 @@
 # Formula One Analysis
 
 ## Table Of Content
-- [Project Overview](#ProjectOverview)
-- [Tools used in the analysis](#Toolsusedintheanalysis)
-- [Data Cleaning/preparation](#DataCleaning/preparation)
-- [Exploratory Data Analysis](#ExploratoryDataAnalysis)
-   - [Data Analysis](#DataAnalysis)
+- [Project Overview](#Project_Overview)
+- [Tools used in the analysis](#Tools_used_in_the_analysis)
+- [Data Cleaning/preparation](#Data_Cleaning/preparation)
+- [Exploratory Data Analysis](#Exploratory_Data_Analysis)
+   - [Data Analysis](#Data_Analysis)
 - [Findings](#Findings)
 - [References](#References)
   
