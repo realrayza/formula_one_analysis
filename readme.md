@@ -11,7 +11,7 @@
   
 ## Project Overview
 
-The project aims to provide insight into the Formula one seasonal records from May 1950 t0 July 2024. We aim to review differnet records set by drivers, constructors and host countries.
+The project aims to provide insight into the Formula one seasonal records from May 1950 to July 2024. We aim to review differnet records set by drivers, constructors and host countries.
 This project is important because with the reports, we can easily track drivers who have the highest number of grandprix wins, the drivers that have achieved fastest laptimes in a formula one grand prix and also countries that have produced the highest number of formula one winners.
 The dataset was gotten from [kaggle.com](https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020).
 The dataset contains information about
