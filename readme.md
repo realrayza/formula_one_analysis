@@ -1,13 +1,14 @@
 # Formula One Analysis
 
 ## Table Of Content
-- [Project Overview](ProjectOverview)
-- [Tools used in the analysis](Toolsusedintheanalysis)
-- [Data Cleaning/preparation](DataCleaning/preparation)
-- [Exploratory Data Analysis](ExploratoryDataAnalysis)
-   - [Data Analysis](DataAnalysis)
-- [Findings](Findings)
-- [References](References)
+- [Project Overview](#ProjectOverview)
+- [Tools used in the analysis](#Toolsusedintheanalysis)
+- [Data Cleaning/preparation](#DataCleaning/preparation)
+- [Exploratory Data Analysis](#ExploratoryDataAnalysis)
+   - [Data Analysis](#DataAnalysis)
+- [Findings](#Findings)
+- [References](#References)
+  
 ## Project Overview
 
 The project aims to provide insight into the Formula one seasonal records from May 1950 t0 July 2004. We aim to review differnet records set by drivers, constructors and host countries.
