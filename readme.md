@@ -1,11 +1,11 @@
 # Formula One Analysis
 
 ## Table Of Content
-- [Project Overview](#Project_Overview)
-- [Tools used in the analysis](#Tools_used_in_the_analysis)
-- [Data Cleaning/preparation](#Data_Cleaning/preparation)
-- [Exploratory Data Analysis](#Exploratory_Data_Analysis)
-   - [Data Analysis](#Data_Analysis)
+- [Project Overview](#Project-Overview)
+- [Tools used in the analysis](#Tools-used-in-the-analysis)
+- [Data Cleaning/preparation](#Data-Cleaning/preparation)
+- [Exploratory Data Analysis](#Exploratory-Data-Analysis)
+   - [Data Analysis](#Data-Analysis)
 - [Findings](#Findings)
 - [References](#References)
   
@@ -30,7 +30,7 @@ In the initial phase of the preparation, I performed the following tasks:
 
 1) Setting up the data: I filtered out the required data I needed from the different datasets
    
- a)  Combining racing_standing and racing result
+ a)  Combining racing data and racing result data
 
 ``` SQL
 WITH racing_result AS (
@@ -124,7 +124,7 @@ FROM race_driver_circuit
 ORDER BY year, round, name, position
 ```
 
-d) JOIN table to constructor table
+d) Joining the table to constructor table
 
 ``` SQL
 SELECT raceid, year, round, grand_prix, country, circuit_name,driverid, forename, surname, racer_nationality, 
